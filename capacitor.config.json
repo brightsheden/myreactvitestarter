@@ -1,0 +1,11 @@
+{
+    "appId": "https://airrecord.onrender.com/",
+    "appName": "AirspaceRecord",
+    "webDir": "dist",
+    "server": {
+      "androidScheme": "https",
+      "cleartext": true
+     
+    }
+  }
+  

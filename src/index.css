@@ -13,3 +13,6 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.nav-link {
+  @apply flex items-center gap-2  hover:text-white hover:bg-primary p-2 rounded-xl mb-5;
+}
